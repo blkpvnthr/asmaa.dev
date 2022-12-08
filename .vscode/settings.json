@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.cursorStyle": "line",
+    "vsintellicode.features.python.deepLearning": "enabled",
+    "npm.enableRunFromFolder": true,
+    "prettier.useTabs": true
+}
